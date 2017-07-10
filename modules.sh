@@ -138,6 +138,7 @@ do
 		esac
 		[[ $? != 0 ]] && exit 1
 	    else
+
 		#echo "You choose Cancel."
 		exit
 	fi

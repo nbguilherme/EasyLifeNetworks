@@ -38,5 +38,5 @@ if [ $exitstatus = 0 ]; then
     esac
     
 else
-    echo "You choose Cancel."
+    source eln.sh
 fi
